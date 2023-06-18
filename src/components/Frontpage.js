@@ -31,6 +31,9 @@ function Frontpage() {
     }
   return (
     <>
+   <marquee className={styles.marquee} behavior="scroll" direction="left">
+  To order call or Whatsapp at 9432877103
+</marquee>
       <div className={styles.logo}>
         <img
           width="150px"

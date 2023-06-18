@@ -31,4 +31,9 @@
     margin-right: 10px;
     cursor: pointer;
   }
-  
+.marquee {
+  background-color: #f5f5f5;
+  color: #333333;
+  font-size: 18px;
+  padding: 10px;
+}
